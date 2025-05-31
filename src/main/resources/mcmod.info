@@ -1,0 +1,16 @@
+[
+{
+  "modid": "raconutils",
+  "name": "raconutils",
+  "description": "personal mod for random stuff",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/nilsraccoon/raconutils",
+  "updateUrl": "",
+  "authorList": ["racon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
